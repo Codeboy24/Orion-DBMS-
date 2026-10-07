@@ -34,5 +34,5 @@ javafx {
 }
 
 application {
-    mainClass.set("org.example.App")
+    mainClass.set("org.example.Orion")
 }

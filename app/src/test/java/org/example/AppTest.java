@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
 public class AppTest {
     @Test
     public void appHasMainClass() {
-        App classUnderTest = new App();
+        Orion classUnderTest = new Orion();
         assertNotNull("App instance should not be null", classUnderTest);
     }
 }
